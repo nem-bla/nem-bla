@@ -3,9 +3,15 @@ I'm a tech enthusiast who loves to learn about new things.
 
 ## Skills:
 - React
-- JavaScript
 - Express.js
 - NodeJS
+- Mongoose
+- MongoDB
+
+## Languages:
+- JavaScript
+- Python 3
+- C++
 
 
 
