@@ -2,7 +2,9 @@
 I'm a tech enthusiast who loves to learn about new things.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nem-bla&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nem-bla&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=nem-bla&theme=dark&hide_border=true)
 
 
