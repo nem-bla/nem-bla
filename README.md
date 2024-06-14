@@ -1,7 +1,7 @@
 ![Header image](https://github.com/nem-bla/nem-bla/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)
 I'm a tech enthusiast who loves to learn about new things.
 
-## ⚡ Skills:
+## Skills:
 - React
 - JavaScript
 - Express.js
