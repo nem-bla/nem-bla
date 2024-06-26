@@ -7,17 +7,31 @@ I'm a tech enthusiast who loves to learn about new things.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nem-bla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-## Skills:
-- React
-- Express.js
-- Node.js
-- Mongoose
-- MongoDB
+## Machine Learning Skills
+- Pytorch
+- Numpy
+- Pandas
+- Scikit-learn
+- Matplotlib
 
 ## Languages:
+- Python
 - JavaScript
-- Python 3
 - C++
+- Java
+
+## Tools:
+- Hadoop
+- Hive
+- Spark
+
+## Frontend:
+- React
+
+## Backend:
+- Node.js
+- Express.js
+- MongoDB
 
 
 
