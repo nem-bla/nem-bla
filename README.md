@@ -1,5 +1,6 @@
 ![Header image](https://github.com/nem-bla/nem-bla/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)
-I'm a tech enthusiast who loves to learn about new things. I am currently open to work, please send me a message!
+
+I'm a tech enthusiast pursuing a Master's degree in Computer Science, specialized in Artificial Intelligence. I am currently open to work, please send me a message!
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nem-bla&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
